@@ -1,0 +1,12 @@
+name: SummonTuttzs
+version: 1.0.0
+main: com.groxmc.summontuttzs.SummonTuttzs
+api-version: '1.21'
+author: GroxMC
+description: Acende fogo azul para invocar tuttzs com raio e efeitos
+
+commands:
+  summontuttzs:
+    description: Invoca tuttzs manualmente
+    usage: /summontuttzs
+    permission: summontuttzs.admin
